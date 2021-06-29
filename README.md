@@ -9,7 +9,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Statistics
-[![PickBas's GitHub stats](https://github-readme-stats.vercel.app/api?username=PickBas&show_icons=true&theme=radical)]
+![PickBas's GitHub stats](https://github-readme-stats.vercel.app/api?username=PickBas&show_icons=true&theme=radical)
 
 ## Contact info
 * Email: sayed.kirill@gmail.com
