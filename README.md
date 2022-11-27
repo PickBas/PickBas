@@ -10,4 +10,4 @@
 
 ## Contact info
 * Email: sayed.kirill@gmail.com
-* LinkedIn: https://www.linkedin.com/in/kirill-sayed-37a9321a1/
+* LinkedIn: https://www.linkedin.com/in/kirill-saied/
